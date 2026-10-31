@@ -8,7 +8,6 @@ Software engineer in Ribe. Right now I'm building **[Cra](https://github.com/Vic
 **Also made**
 
 - [Spook](https://www.tryspook.com): SEO tools, with an [MCP server](https://github.com/VictorKildahl/spook-mcp) and a [drop-in Next.js blog](https://github.com/VictorKildahl/spook-nextjs-blog)
-- [Diff](https://github.com/VictorKildahl/diff-releases): a minimal macOS Git client
 - [GhostWriter](https://github.com/VictorKildahl/ghostwriter-releases): a voice-powered ghostwriting app
 
 If Cra replaced Arc for you, [sponsoring](https://github.com/sponsors/VictorKildahl) keeps it going 🧡
