@@ -1,6 +1,6 @@
 ### Hi, I'm Victor 👋
 
-Software engineer in Aarhus. Right now I'm building **[Cra](https://github.com/VictorKildahl/cra)**, the open-source Arc replacement for macOS: spaces, pinned tabs, split view and Little Windows on Chromium, with your Arc sidebar imported in one go.
+Software engineer in Ribe. Right now I'm building **[Cra](https://github.com/VictorKildahl/cra)**, the open-source Arc replacement for macOS: spaces, pinned tabs, split view and Little Windows on Chromium, with your Arc sidebar imported in one go.
 
 [![Download Cra](https://img.shields.io/badge/Download-crabrowser.app-ff5a36?style=for-the-badge)](https://crabrowser.app)
 [![GitHub stars](https://img.shields.io/github/stars/VictorKildahl/cra?style=for-the-badge&logo=github&label=Stars)](https://github.com/VictorKildahl/cra)
